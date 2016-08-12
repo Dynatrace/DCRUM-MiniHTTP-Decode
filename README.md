@@ -12,7 +12,7 @@ This is a simple HTTP protocol analyzer showcasing the Universal Decode capabili
 
 ## Where can I find the newest version of the Mini HTTP script?
 
-See the [Universal Decode Implementations](https://community.dynatrace.com/community/display/PUBDCRUM/Universal+Decode+Implementations#UniversalDecodeImplementations-MINIHTTP)
+See the [Universal Decode Implementations](https://community.dynatrace.com/community/display/PUBDCRUM/Bespoke+application+monitoring+with+the+Universal+Decode#BespokeapplicationmonitoringwiththeUniversalDecode-MINIHTTP)
 page.
 
 ## How can I run the script from sources?
